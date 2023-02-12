@@ -15,3 +15,6 @@ to get the same output of the same question. 📈📊
 
 # Database Used:
 > PostgreSQL (pgAdmin4). 🐘
+
+
+![image](https://user-images.githubusercontent.com/123267703/218306735-7e5c4d8f-f4ab-4b2e-a25b-952203c9a893.png)
